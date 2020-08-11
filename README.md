@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <blockquote>
-I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves programing and learning new stuff.
+I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves programing and learning new stuff.✨ 
 </blockquote>
 
 - 🌱 I’m currently learning:
@@ -23,7 +23,7 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 
 
 <!--
-**MrPinabutter/MrPinabutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MrPinabutter/MrPinabutter** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
