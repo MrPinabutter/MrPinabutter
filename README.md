@@ -8,7 +8,8 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 <ul> ReactJS/ ReactNative </ul>
 <ul> Data Science in R and Python </ul>
 <ul> Improve skills in css </ul>
-<ul> C# </ul>
+<ul> C# for unity</ul>
+<ul> Ethical hacking</ul>
 
 - 🔭 Some knowledge technologies:
 
