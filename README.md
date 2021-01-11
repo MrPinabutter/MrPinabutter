@@ -8,6 +8,7 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 <ul> ReactJS/ ReactNative </ul>
 <ul> Redux </ul>
 <ul> Data Science in Python </ul>
+<ul> TensorFlow </ul>
 <ul> Ethical hacking</ul>
 
 - 🔭 Some knowledge technologies:
