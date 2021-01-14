@@ -7,6 +7,7 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 - 🌱 I’m currently learning:
 <ul> ReactJS/ ReactNative </ul>
 <ul> Redux </ul>
+<ul> Assembly for MIPS </ul>
 <ul> Data Science in Python </ul>
 <ul> TensorFlow </ul>
 <ul> Ethical hacking</ul>
