@@ -21,7 +21,7 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 | Python | Typescript | SQLite3 | |
 |  | CSS  |  MongoDB | |
 
-- 👯 I’m looking to collaborate on some web/mobile/game project
+- 👯 I’m looking to collaborate on some web/mobile/IA project
 
 
 
