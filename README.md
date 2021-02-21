@@ -23,6 +23,7 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 
 - 👯 I’m looking to collaborate on some web/mobile/IA project
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrPinabutter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
