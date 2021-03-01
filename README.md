@@ -6,8 +6,7 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 
 - 🌱 I’m currently learning:
 <ul> ReactJS/ ReactNative </ul>
-<ul> Redux </ul>
-<ul> Assembly for MIPS </ul>
+<ul> NextJS </ul>
 <ul> Data Science in Python </ul>
 <ul> TensorFlow </ul>
 <ul> Ethical hacking</ul>
@@ -25,6 +24,8 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrPinabutter)](https://github.com/anuraghazra/github-readme-stats)
 
+
+- ☕ Cappuccino lover
 
 <!--
 **MrPinabutter/MrPinabutter** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
