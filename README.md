@@ -5,11 +5,8 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 </blockquote>
 
 - 🌱 I’m currently learning:
-<ul> ReactJS/ ReactNative </ul>
-<ul> NextJS </ul>
 <ul> Data Science in Python </ul>
 <ul> TensorFlow </ul>
-<ul> Docker </ul>
 <ul> Ethical hacking</ul>
 
 - 🔭 Some knowledge technologies:
