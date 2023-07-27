@@ -13,10 +13,10 @@ I am a Brazilian student of computer science in UFPI (Teresina-PI) who loves pro
 
 | Back-End  | Front-end  | Database | Mobile  |
 |---|---|---|---|
-| NodeJS  | React | SQL Server | ReactNative |
-| Java | Javascript | Mysql | |
-| Python | Typescript | SQLite3 | |
-|  | CSS  |  MongoDB | |
+| NodeJS  | React | FirebaseDB | ReactNative |
+| Python | Javascript | Mysql | Flutter |
+| Ruby | Typescript | SQLite3 | |
+|  | Tailwind  |  MongoDB | |
 
 - 👯 I’m looking to collaborate on some web/mobile/IA project
 
